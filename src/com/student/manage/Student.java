@@ -7,6 +7,7 @@ public class Student {
     private String studentCity;
 
     public Student(int studentId, String studentName, String studentPhone, String studentCity) {
+
         super();
         this.studentId = studentId;
         this.studentName = studentName;

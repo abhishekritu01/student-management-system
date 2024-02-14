@@ -8,6 +8,7 @@ import java.sql.SQLException;
 
 
 public class StudentDatabase {
+
     public static boolean insertStudentToDb(Student st) {
         try {
             // JDBC Code

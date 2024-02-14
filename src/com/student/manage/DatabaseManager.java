@@ -8,6 +8,7 @@ public class DatabaseManager {
 
     private static Connection connection;
 
+
     static {
         try {
             // Load Driver
