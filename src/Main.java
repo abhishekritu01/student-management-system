@@ -14,6 +14,7 @@ public class Main {
 
         final Connection ignored = DatabaseManager.getConnection();
 
+
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         while (true) {
             System.out.println("Press 1 to Add a new Student");
